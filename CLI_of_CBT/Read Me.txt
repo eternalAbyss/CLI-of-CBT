@@ -1,0 +1,14 @@
+This project is the CLI based examination system. 
+DRAWBACKS:
+1) It takes only one question as a exam input. All the testcases and the output are case sensitive.
+
+FUTURE IMPROVEMENTS:
+1) I can assign an exam as a question and then create another major exam to simlate the real examination
+system.
+
+INSTRUCTIONS:
+1) On the first run make sure to create new database.
+
+submitted by: Utkarsh Singh
+Registration id: 11701796
+roll no. : 24
